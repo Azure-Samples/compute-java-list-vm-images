@@ -8,8 +8,9 @@ author: selvasingh
 
 Compute Manage Virtual Machine Sample (for 1.0.0-beta2) - demonstrates how to perform common tasks using the Microsoft Azure Compute service.
 
-List all virtual machine image publishers and
-List all virtual machine images published by Canonical, Red Hat and SUSE by browsing through locations, publishers, offers, SKUs and images.
+
+- List all virtual machine image publishers and
+- List all virtual machine images published by Canonical, Red Hat and SUSE by browsing through locations, publishers, offers, SKUs and images.
  
 
 ## Running this Sample ##
