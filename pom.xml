@@ -26,7 +26,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.4.0</version>
                 <configuration>
-                    <mainClass>com.microsoft.azure.management.compute.samples.ListVirtualMachineImages.java</mainClass>
+                    <mainClass>com.microsoft.azure.management.compute.samples.ListVirtualMachineImages</mainClass>
                 </configuration>
             </plugin>
             <plugin>
