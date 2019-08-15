@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Compute
-platforms: java
-author: yaohaizh
+extensions:
+- services: Compute
+- platforms: java
 ---
 
-## Getting Started with Compute - List Virtual Machine Images - in Java ##
+# Getting Started with Compute - List Virtual Machine Images - in Java #
 
 
   List all virtual machine image publishers and
