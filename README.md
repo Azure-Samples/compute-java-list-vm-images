@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Compute
-- platforms: java
+description: "List all virtual machine image publishers and list all virtual machine images published by Canonical, Red Hat and SUSE by browsing through locations, publishers, offers, SKUs and images."
+urlFragment: compute-java-list-vm-images
 ---
 
 # Getting Started with Compute - List Virtual Machine Images - in Java #
